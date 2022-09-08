@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mana-baruah
-- 👀 I’m interested in cyber security.
-- 🌱 I’m currently learning C programming language.
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
